@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+# A function to return the end result
 def compute(x: int, y: int):
     return ((int(x) ** int(y)) / int(x))
 
